@@ -4,6 +4,10 @@
 
 -   [api-with-cache](./api-with-cache.md) - Project: [API-REDIS](https://github.com/Gabriel-Valin/api-cache-redis)
 
+## Builder Pattern - Design Pattern]
+
+-   [builder-pattern](./builder-pattern.md) - Project: [BUILDER-PATTERN](https://github.com/Gabriel-Valin/build-pattern-ts)
+
 ## Understand and implement Helmet.js in NodeJS app
 
 -   [helmet-node-app](./helmet-node-app.md)
